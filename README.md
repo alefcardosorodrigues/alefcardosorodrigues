@@ -10,5 +10,5 @@ About me:
 
 <p align="center">
 <a href= "https://www.instagram.com/alefstarkin"><img src="https://www.flaticon.com/br/icone-gratis/instagram_174855"/></a>
-<a href= "https://www.linkedin.com/in/alef-cardoso-rodrigues/"><img src="https://www.flaticon.com/br/icone-gratis/linkedin_145807?related_id=145807"/></a>
+<a href= "https://www.linkedin.com/in/alef-cardoso-rodrigues/"><img src="https://www.ufpb.br/ufpb/icons/redes-sociais/linkedin.png/image_view_fullscreen"/></a>
 </p>
