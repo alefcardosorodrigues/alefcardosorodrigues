@@ -8,8 +8,8 @@ About me:
 - 🤓 Fun Fact: I **LOVE** My Family and Fluminense
 
 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+📷 [INSTAGRAM][INSTAGRAM] **|** 
+👔 [LINKEDIN][LINKEDIN]
 
 
 [INSTAGRAM]: https://instagram.com/alefstarkin
