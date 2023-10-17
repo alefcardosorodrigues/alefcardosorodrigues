@@ -1,4 +1,4 @@
-### Hi, I'm Alef Cardoso 👋
+### Hi, I'm Alef Rodrigues 👋
 
 
 About me:
@@ -8,9 +8,7 @@ About me:
 - 🤓 Fun Fact: I **LOVE** My Family and Fluminense
 
 
-📷 [INSTAGRAM][INSTAGRAM] **|** 
-👔 [LINKEDIN][LINKEDIN]
-
-
-[INSTAGRAM]: https://instagram.com/alefstarkin
-[LINKEDIN]: https://www.linkedin.com/in/alef-cardoso-rodrigues/
+<p align="center">
+<a href= "https://www.instagram.com/alefstarkin"><img src="https://www.flaticon.com/br/icone-gratis/instagram_174855"/></a>
+<a href= "https://www.linkedin.com/in/alef-cardoso-rodrigues/"><img src="https://www.flaticon.com/br/icone-gratis/linkedin_145807?related_id=145807"/></a>
+</p>
