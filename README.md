@@ -12,5 +12,5 @@ About me:
 👔 [linkedin][linkedin]
 
 
-[instagram]: https://instagram.com/alefstarkin
-[linkedin]: https://www.linkedin.com/in/alef-cardoso-rodrigues/
+[INSTAGRAM]: https://instagram.com/alefstarkin
+[LINKEDIN]: https://www.linkedin.com/in/alef-cardoso-rodrigues/
