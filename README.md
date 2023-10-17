@@ -1,4 +1,4 @@
-### Hi There! 👋
+### Hi, I'm Alef Rodrigues 👋
 
 
 About me:
