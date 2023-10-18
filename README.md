@@ -9,6 +9,6 @@ About me:
 
 
 <p align="center">
-<a href= "https://www.instagram.com/alefstarkin"><img src="https://www.freepnglogos.com/images/logo-ig-png-32464.html"/></a>
+<a href= "https://www.instagram.com/alefstarkin"><img src="https://img.icons8.com/color/48/instagram-new--v1.png"/></a>
 <a href= "https://www.linkedin.com/in/alef-cardoso-rodrigues/"><img src="https://www.freepnglogos.com/images/linkedin-logo-png-1854.html"/></a>
 </p>
